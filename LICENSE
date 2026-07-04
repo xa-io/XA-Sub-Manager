@@ -1,0 +1,66 @@
+XA Sub Manager — End User License Agreement (EULA)
+
+Copyright (c) 2026 XA / xa-io. All Rights Reserved.
+
+This software ("XA Sub Manager", the "Software") is proprietary and is licensed,
+not sold. By downloading, installing, or using the Software you ("You") agree to
+the terms below. If You do not agree, do not install or use the Software.
+
+1. GRANT OF LICENSE
+   Subject to Your continued compliance with this Agreement, the author grants
+   You a personal, non-exclusive, non-transferable, revocable, royalty-free
+   license to install and use the Software, in its original unmodified form, on
+   computers You own or control, for Your own personal use, free of charge.
+
+2. RESTRICTIONS
+   You MAY NOT, in whole or in part:
+   (a) sell, rent, lease, sublicense, lend, or otherwise commercially exploit
+       the Software, or charge any fee for access to it;
+   (b) redistribute, re-host, mirror, repackage, or otherwise make the Software
+       available to any third party by any means;
+   (c) modify, adapt, translate, or create derivative works of the Software;
+   (d) reverse engineer, decompile, disassemble, or otherwise attempt to derive
+       the source code, underlying ideas, or algorithms of the Software, except
+       only to the extent this restriction is expressly prohibited by applicable
+       law;
+   (e) remove, alter, or obscure any copyright, trademark, version, or other
+       proprietary notices in or on the Software;
+   (f) use the Software in any manner that violates the terms of service of
+       FINAL FANTASY XIV, SQUARE ENIX, or any other third-party service.
+
+3. OWNERSHIP
+   The Software is owned by the author and is protected by copyright and other
+   intellectual-property laws. No source code is distributed with the Software.
+   All rights not expressly granted to You are reserved by the author. This
+   Agreement does not grant You any rights to trademarks or service marks.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+   YOU ASSUME THE ENTIRE RISK AS TO THE QUALITY, PERFORMANCE, AND USE OF THE
+   SOFTWARE.
+
+5. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+   CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF DATA, ACCOUNTS,
+   PROFITS, OR GAME PROGRESS, OR ACCOUNT SUSPENSION OR TERMINATION BY ANY THIRD
+   PARTY) ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THIS AGREEMENT,
+   HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY.
+
+6. THIRD-PARTY SOFTWARE
+   The Software includes third-party components licensed under their own terms.
+   See THIRD_PARTY_NOTICES.md for those notices and licenses.
+
+7. TERMINATION
+   This Agreement is effective until terminated. It terminates automatically,
+   without notice, if You breach any of its terms. Upon termination You must
+   stop using the Software and destroy all copies in Your possession.
+
+8. ENTIRE AGREEMENT
+   This Agreement is the entire agreement between You and the author regarding
+   the Software and supersedes any prior understanding. If any provision is held
+   unenforceable, the remaining provisions remain in full force and effect.
+
+For licensing inquiries beyond personal use, contact: https://github.com/xa-io
