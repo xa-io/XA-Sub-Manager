@@ -1,0 +1,22 @@
+# Third-Party Notices
+
+## nlohmann/json
+
+- Source: https://github.com/nlohmann/json
+- License: MIT
+
+This project vendors the single-header `json.hpp` distribution from nlohmann/json.
+
+## SQLite
+
+- Source: https://www.sqlite.org
+- Version: 3.53.3 (amalgamation)
+- License: Public Domain
+
+This project statically links the SQLite amalgamation (`sqlite3.c`/`sqlite3.h`).
+SQLite is in the public domain; the authors disclaim copyright and offer this
+blessing in place of a legal notice:
+
+> May you do good and not evil.
+> May you find forgiveness for yourself and forgive others.
+> May you share freely, never taking more than you give.
